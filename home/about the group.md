@@ -39,7 +39,7 @@ We'll add to this list throughout the next few weeks, according to the group's i
 ## What's the Python learners group?
 The Python learners group is intended for learners that are very new to programming. We'll work through lessons on the fundamentals of Python using [Introduction to Cultural Analytics & Python, Version 1 (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) as our core text.
 
-The primary goal of this series is for you to learn Python and programming at your own pace with help from a supportive community of learners. While Devin and I have plans for what the group can cover week to week, we invite you to share your own learning goals, too. We are happy to adjust plans along the way and point you to relevant resources for your interests.
+The primary goal of this series is for you to learn Python and programming at your own pace with help from a supportive community of learners. While Devin and Iliana have plans for what the group can cover week to week, we invite you to share your own learning goals, too. We are happy to adjust plans along the way and point you to relevant resources for your interests.
 
 ## Support outside of our group meetup time
 
