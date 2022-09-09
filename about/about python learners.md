@@ -16,9 +16,9 @@ Our current plan is to meet once a week for four weeks. After that, depending on
 **We don't expect you to do any work outside of session time unless you'd like to.** We can help provide resources and external lessons that speak to your personal goals for learning Python.
 
 Each session will have this (approximate!) structure:
-* 10 minutes: Settle in, check in with one another. Devin and Iliana introduce the lesson for the day.
-* 40 minutes: Everyone works on the designated lesson content for the day, or a separate Python lesson geared towards their personal interests. Questions are welcome!
-* 10 minutes: We share out any joys, frustrations, questions and comments about the day's studies.
+* **10 minutes:** Settle in, check in with one another. Devin and Iliana introduce the lesson for the day.
+* **40 minutes:** Everyone works on the designated lesson content for the day, or a separate Python lesson geared towards their personal interests. Questions are welcome!
+* **10 minutes:** We share out any joys, frustrations, questions and comments about the day's studies.
 
 ## Resources
 
