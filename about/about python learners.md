@@ -4,6 +4,7 @@ Instructors: Iliana Burgos (itb23) and Devin Sanera (ds895)
 ## Session time and location
 
 Olin Library Room 703
+
 Fridays, 3-4pm:
 * September 16, session one: anatomy of a Python script and common errors
 * September 23, session two: variables, data types, and string methods
