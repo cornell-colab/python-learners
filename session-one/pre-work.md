@@ -2,8 +2,7 @@
 Instructors: Iliana Burgos (itb23) and Devin Sanera (ds895)
 
 ## First session time and location
-Friday, September 16, 3-4pm 
-Olin Library Room 703
+Friday, September 16, 3-4pm at Olin Library Room 703
 
 ## Before the session
 The pre-work for this session focuses on installing Python and Jupyter Lab onto your computer. Reach out if you have any issues along the way. 
