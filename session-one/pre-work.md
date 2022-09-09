@@ -6,7 +6,7 @@ Friday, September 16, 3-4pm
 Olin Library Room 703
 
 ## Before the session
-The pre-work for this session focuses on installing Python and Jupyter Lab onto your computer, and moving through a few lessons to learn some Python basics. Get as far as you can, and reach out if you have any issues along the way. 
+The pre-work for this session focuses on installing Python and Jupyter Lab onto your computer. Reach out if you have any issues along the way. 
 
 Devin and Iliana will be available at the CoLab during the following times if you'd like to troubleshoot in-person:
 * Fridays, 1-3pm during the regular [CoLab Co-working hours](https://digitalscholarship.library.cornell.edu/coworking), Olin Library Room 701
