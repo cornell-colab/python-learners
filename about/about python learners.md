@@ -24,7 +24,7 @@ Each session will have this (approximate!) structure:
 
 ### Main textbook
 
-[_Introduction to Cultural Analytics & Python, Version 1 _(Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+[Introduction to Cultural Analytics & Python, Version 1 (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
 
 ### Additional resources of interest
 
@@ -37,7 +37,7 @@ We'll add to this list throughout the next few weeks, according to the group's i
 [Python lessons for librarians (Janowiecki, 2021)](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/home)
 
 ## What's the Python learners group?
-The Python learners group is intended for learners that are very new to programming. We'll work through lessons on the fundamentals of Python using [_Introduction to Cultural Analytics & Python, Version 1 _(Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) as our core text.
+The Python learners group is intended for learners that are very new to programming. We'll work through lessons on the fundamentals of Python using [Introduction to Cultural Analytics & Python, Version 1 (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) as our core text.
 
 The primary goal of this series is for you to learn Python and programming at your own pace with help from a supportive community of learners. While Devin and I have plans for what the group can cover week to week, we invite you to share what your personal learning goals are, too. We are happy to adjust plans along the way and point you to relevant resources for your interests.
 
