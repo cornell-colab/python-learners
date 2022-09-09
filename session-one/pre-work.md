@@ -11,7 +11,7 @@ The pre-work for this session focuses on installing Python and Jupyter Lab onto 
 Devin and Iliana will be available at the CoLab during the following times if you'd like to troubleshoot in-person:
 * Fridays, 1-3pm during the regular [CoLab Co-working hours](https://digitalscholarship.library.cornell.edu/coworking), Olin Library Room 701
 
-If that time does not work for you, feel free to message Devin and Iliana to schedule a time for support.
+If that time does not work for you, feel free to message us to schedule a time for support.
 
 ### Installing Python and Jupyter Lab
 Follow instructions from [<i>Introduction to Cultural Analytics & Python</i> (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) to download Jupyter Lab onto your computer and learn about Jupyter Notebooks:
