@@ -2,12 +2,13 @@
 Instructors: Iliana Burgos (itb23) and Devin Sanera (ds895)
 
 ## Session time and location
+
 Olin Library Room 703
 Fridays, 3-4pm:
-* September 16, session one: Anatomy of a Python script and common errors
+* September 16, session one: anatomy of a Python script and common errors
 * September 23, session two: 
-* September 30, session three: 
-* October 7, session four: 
+* September 30, session three: comparisons and conditionals
+* October 7, session four: lists and loops
 
 Our current plan is to meet once a week for four weeks. After that, depending on interest, we can continue with more advanced programming topics. 
 
@@ -22,7 +23,7 @@ Each session will have this (approximate!) structure:
 
 ### Main textbook
 
-[Introduction to Cultural Analytics & Python (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+[Introduction to Cultural Analytics & Python, Version 1 (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
 
 ### Additional resources of interest
 
@@ -34,12 +35,10 @@ We'll add to this list throughout the next few weeks, according to the group's i
 
 [Python lessons for librarians (Janowiecki, 2021)](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/home)
 
-
 ## What's the Python learners group?
-The Python learners group is intended for learners that are very new to programming. We'll work through lessons on the fundamentals of Python using [Introduction to Cultural Analytics & Python (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) as our core text.
+The Python learners group is intended for learners that are very new to programming. We'll work through lessons on the fundamentals of Python using [Introduction to Cultural Analytics & Python, Version 1 (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) as our core text.
 
 The primary goal of this series is for you to learn Python and programming at your own pace with help from a supportive community of learners. While Devin and I have plans for what the group can cover week to week, we invite you to share what your personal learning goals are, too. We are happy to adjust plans along the way and point you to relevant resources for your interests.
-
 
 ## Support outside of our group meetup time
 
