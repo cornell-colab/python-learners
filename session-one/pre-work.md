@@ -1,4 +1,4 @@
-# Introduction to Python 
+# Python learners group (Fall 2022)
 Instructors: Iliana Burgos (itb23) and Devin Sanera (ds895)
 
 ## Before the session
