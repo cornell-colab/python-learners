@@ -17,8 +17,7 @@ Review [logistics for the Python learners group](https://github.com/cornell-cola
 
 ### Choice A: installing Python and Jupyter Lab
 <u>Intended for folks that:</u>
-* Didn't get a chance to do the pre-work, or
-* Want to start learning from 
+* Would like to install and set up Anaconda and Jupyter Lab
 
 
 #### Installing Python and Jupyter Lab
@@ -37,7 +36,7 @@ However, if you're eager to jump into Python scripts, you can skim or skip this 
 
 <u>Intended for folks that:</u>
 * Already completed Choice A, or
-* Want to understand the different parts of creating and running a Python script, how the script works.
+* Want to understand the different parts of creating and running a Python script
 
 #### [Anatomy of a Python script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html)
 This section discusses the building blocks that make a Python script. Think of it as learning the grammar
