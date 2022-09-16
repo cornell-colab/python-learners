@@ -16,6 +16,10 @@ Review [logistics for the Python learners group](https://github.com/cornell-cola
 ## Choose your own Python adventure (35 minutes)
 
 ### Choice A: installing Python and Jupyter Lab
+<u>Intended for folks that:</u>
+* Didn't get a chance to do the pre-work, or
+* Want to start learning from 
+
 
 #### Installing Python and Jupyter Lab
 Follow instructions from [<i>Introduction to Cultural Analytics & Python</i> (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) to download Anaconda and Jupyter Lab onto your computer, and learn about Jupyter Notebooks:
@@ -31,7 +35,7 @@ However, if you're eager to jump into Python scripts, you can skim or skip this 
 
 ### Choice B: Anatomy of a Python script and common errors
 
-**Intended for folks that:**
+<u>Intended for folks that:</u>
 * Already completed Choice A, or
 * Want to understand the different parts of creating and running a Python script
 
@@ -41,13 +45,15 @@ However, if you're eager to jump into Python scripts, you can skim or skip this 
 
 ### Choice C: Python variables and data types
 
-**Intended for folks that:**
+<u>Intended for folks that:</u>
 * Already feel comfortable with the topics in A and B, or
 * Want more hands-on examples
 
-#### Python variables
+#### [Python variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
+Learn how to assign variables in your Python script. 
 
-#### Python data types
+#### [Python data types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
+Learn how to work with different data types. 
 
 ## Discuss questions and lessons learned (10 minutes)
 
