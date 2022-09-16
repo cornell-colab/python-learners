@@ -41,7 +41,7 @@ However, if you're eager to jump into Python scripts, you can skim or skip this 
 #### [Anatomy of a Python script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html)
 This section discusses the building blocks that make a Python script. 
 
-#### [Common errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
+#### [Common Python errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
 Learn about a few common error messages in Python and how to start troubleshooting when you encounter them.
 
 ### Choice C: Python variables and data types
