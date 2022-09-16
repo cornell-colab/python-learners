@@ -39,7 +39,7 @@ However, if you're eager to jump into Python scripts, you can skim or skip this 
 * Want to understand the different parts of creating and running a Python script
 
 #### [Anatomy of a Python script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html)
-This section discusses the building blocks that make a Python script. Think of it as learning the grammar
+This section discusses the building blocks that make a Python script. 
 
 #### [Common errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
 Learn about a few common error messages in Python and how to start troubleshooting when you encounter them.
