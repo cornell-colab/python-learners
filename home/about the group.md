@@ -38,6 +38,10 @@ Each session will have this (approximate!) structure:
 
 We'll add to this list throughout the next few weeks, according to the group's interests.
 
+* [Python documentation](https://docs.python.org/3/)
+* [W2Schools Online Web Tutorials](https://docs.python.org/3/)
+* [Programming Historian](https://programminghistorian.org)
+
 #### For the library staff in the room
 
 [Python for Librarians (Library Carpentry)](https://librarycarpentry.org/library-python/)
