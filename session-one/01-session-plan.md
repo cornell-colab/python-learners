@@ -58,6 +58,6 @@ Learn how to work with different data types.
 
 ## Discuss questions and lessons learned (10 minutes)
 
-**Before we leave the sesssion, share out either of the following:**
+**Share out either of the following:**
 * One interesting thing you learned from your lesson of choice
 * One question you have
