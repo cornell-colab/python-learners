@@ -16,9 +16,6 @@ Review [logistics for the Python learners group](https://github.com/cornell-cola
 ## Choose your own Python adventure (35 minutes)
 
 ### Choice A: installing Python and Jupyter Lab
-<u>Intended for folks that:</u>
-* Would like to install and set up Anaconda and Jupyter Lab
-
 
 #### Installing Python and Jupyter Lab
 Follow instructions from [<i>Introduction to Cultural Analytics & Python</i> (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) to download Anaconda and Jupyter Lab onto your computer, and learn about Jupyter Notebooks:
