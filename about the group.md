@@ -3,6 +3,10 @@ Instructors:
 * Iliana Burgos, Emerging Data Practices Librarian (itb23)
 * Devin Sanera, Instructional Technology Coordinator (ds895)
 
+## Short link to Github page
+
+https://tinyurl.com/python-learners
+
 ## Session time and location
 
 Olin Library Room 703 
