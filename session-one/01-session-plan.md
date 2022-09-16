@@ -10,7 +10,7 @@ Review [logistics for the Python learners group](https://github.com/cornell-cola
 * Your degree program
 * Your goals for learning Python (1-2 sentences) 
 
-## Choose your own Python adventure (30-40 minutes)
+## Choose your own Python adventure (35 minutes)
 
 ### Choice A: installing Python and Jupyter Lab
 
@@ -46,7 +46,7 @@ However, if you're eager to jump into Python scripts, you can skim or skip this 
 
 #### Python data types
 
-## Discuss questions and lessons learned (10-15 minutes)
+## Discuss questions and lessons learned (10 minutes)
 
 **Before we leave the sesssion, share out either of the following:**
 * One interesting thing you learned from your lesson of choice
