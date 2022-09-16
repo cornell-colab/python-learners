@@ -1,5 +1,5 @@
 # Python learners group (Fall 2022)
-Instructors: Iliana Burgos (itb23) and Devin Sanera, Instructional Technology Coordinator (ds895)
+Instructors: Iliana Burgos, Emerging Data Practices Librarian (itb23) and Devin Sanera, Instructional Technology Coordinator (ds895)
 
 ## Session time and location
 
