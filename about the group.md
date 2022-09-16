@@ -3,7 +3,7 @@ Instructors:
 * Iliana Burgos, Emerging Data Practices Librarian (itb23)
 * Devin Sanera, Instructional Technology Coordinator (ds895)
 
-## Short link to Github page
+## Short link to Github repository
 
 https://tinyurl.com/python-learners
 
