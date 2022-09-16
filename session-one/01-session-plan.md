@@ -1,6 +1,5 @@
 # Session 1
 Instructors:
-
 * Iliana Burgos, Emerging Data Practices Librarian (itb23)
 * Devin Sanera, Instructional Technology Coordinator (ds895)
 
