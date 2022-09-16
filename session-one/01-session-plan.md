@@ -1,5 +1,15 @@
 # Session 1
 
+## Welcome, settle in (5 minutes)
+
+Review [logistics for the Python learners group](https://github.com/cornell-colab/python-learners/blob/main/home/about%20the%20group.md)
+
+## Group introductions (10 minutes)
+
+* Your name, preferred pronouns (if you'd like to share)
+* Your degree program
+* Your goals for learning Python (1-2 sentences) 
+
 ## Choose your own Python adventure (30-40 minutes)
 
 ### Choice A: installing Python and Jupyter Lab
