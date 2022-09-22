@@ -30,5 +30,6 @@ Instructors:
 ## Discuss questions and lessons learned (10 minutes)
 
 **Share out either of the following:**
-* One interesting thing you learned from your lesson of choice
+* One interesting thing you learned
 * One question you have
+* Any concerns or unclear topics?
