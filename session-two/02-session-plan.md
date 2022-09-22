@@ -23,9 +23,13 @@ Instructors:
   * Floats (Decimal Numbers)
   * Booleans (True/False)
 
+* Checking types, converting between types
+
 * Multiple element data types (data structures):
   * Lists (an array of elements)
   * Dictionaries (a key-value structure)
+
+* Structures can be nested. For example, a list can contain elements that are themselves other lists.
 
 ## Discuss questions and lessons learned (10 minutes)
 
