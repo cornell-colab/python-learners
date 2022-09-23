@@ -12,6 +12,9 @@ Instructors:
 
 ## Variables and Data Types (35 minutes)
 
+* Algorithms + Data Structures = Programs
+  * Today we will learn about the data side of this formula
+
 ### [Python variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
 * A variable is a "container" for data. In Python, we create a new variable by assigning a value to it (other languages differ). If you've used a spreadsheet to run calculations, each cell can be a variable.
 * Variables can be modified or overwritten by later code. It's not usually necessary to delete variables once they are no longer in use, the computer handles that.
