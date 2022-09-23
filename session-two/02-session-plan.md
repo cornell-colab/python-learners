@@ -48,6 +48,18 @@ Instructors:
 * Structures can be nested. For example, a list can contain elements that are themselves other lists.
   * list[0][2]
 
+* Modifying lists
+  * append() - adds an item to the end of the list. If you are trying to merge two lists, append will put the entire list as one element.
+  * extend() - extends the list, used for merging one list into another
+    * can also use + if you want to create a new list out of two lists
+  * insert() - inserts an item from the list at a specified postion
+  * pop() - removes an item from the list at a specified postion
+
+* Modifying dictionaries
+  *  update() - adds specified key-value pairs
+    * dict["newkey"] = "newvalue" 
+  *  pop()	- removes the element with the specified key
+
 ## Discuss questions and lessons learned (10 minutes)
 
 **Share out either of the following:**
