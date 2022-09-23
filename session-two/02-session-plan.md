@@ -58,7 +58,7 @@ Instructors:
 
 * Modifying dictionaries
   *  update() - adds specified key-value pairs
-    * dict["newkey"] = "newvalue" 
+     * dict["newkey"] = "newvalue" 
   *  pop()	- removes the element with the specified key
 
 ## Discuss questions and lessons learned (10 minutes)
