@@ -53,6 +53,7 @@ Instructors:
   * extend() - extends the list, used for merging one list into another
     * can also use + if you want to create a new list out of two lists
   * insert() - inserts an item from the list at a specified postion
+    * list[position] = new_element
   * pop() - removes an item from the list at a specified postion
 
 * Modifying dictionaries
