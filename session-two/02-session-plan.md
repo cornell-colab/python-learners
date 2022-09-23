@@ -18,6 +18,8 @@ Instructors:
 ### [Python variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
 * A variable is a "container" for data. In Python, we create a new variable by assigning a value to it (other languages differ). If you've used a spreadsheet to run calculations, each cell can be a variable.
 * Variables can be modified or overwritten by later code. It's not usually necessary to delete variables once they are no longer in use, the computer handles that.
+* Plan ahead and try to name your variables well, names that are too short or generic will be more difficult to understand and follow when you review or modify your code later.
+  * Use code comments too!
 
 ### [Python data types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/05-Data-Types.html)
 * Single element data types:
@@ -26,13 +28,22 @@ Instructors:
   * Floats (Decimal Numbers)
   * Booleans (True/False)
 
-* Checking types, converting between types
+* Checking types
+  * type()
+* Converting between types
+  * int(), str(), float()
 
 * Multiple element data types (data structures):
   * Lists (an array of elements)
   * Dictionaries (a key-value structure)
 
+* Addressing elements or ranges within lists or elements of dictionaries
+  * list[0]
+  * list[2:7]
+  * dict["key"]
+
 * Structures can be nested. For example, a list can contain elements that are themselves other lists.
+  * list[0][2]
 
 ## Discuss questions and lessons learned (10 minutes)
 
