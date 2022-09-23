@@ -36,6 +36,9 @@ Instructors:
 * Multiple element data types (data structures):
   * Lists (an array of elements)
   * Dictionaries (a key-value structure)
+  * (Less common, we won't cover these today)
+    * Set (unordered, doesn't allow duplicates)
+    * Tuple (ordered, not able to modify tuple contents)
 
 * Addressing elements or ranges within lists or elements of dictionaries
   * list[0]
