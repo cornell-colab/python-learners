@@ -9,9 +9,7 @@ https://tinyurl.com/python-learners
 
 ## Session time and location
 
-Olin Library Room 703 
-
-**On Sep. 23 ONLY:** Olin Library Room 701 (across the hall from 703)
+*updated!*: Olin Library Room 106G 
 
 **Fridays, 3-4pm:**
 * September 16, session one: anatomy of a Python script and common errors
