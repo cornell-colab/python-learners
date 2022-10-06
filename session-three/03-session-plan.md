@@ -58,20 +58,9 @@ if(True):
 * else
 * elif
 
-## for() loops (15 minutes)
-* There are many ways to use a for() loop, one of the most powerful ways is to interate through a list.
-* In part of the set-up, you decide what to name the variable that will hold each list element for each single run of the loop.
-* In this example, "number" is not a variable used elsewhere, we are defining it right here. "number" will take on the values 1, 2, 3, 4 in sequence for each run of the loop. The result of this output is the sequence 2, 3, 4, 5.
-
-```
-list = [1, 2, 3, 4]
-for number in list:
-  print(number + 1)
-```
-
 ## Conclusion, discuss questions, and lessons learned (10 minutes)
 
-* Think about how you could use a for() loop with conditionals and comparisons inside the loop to evaluate, sort, or clean data from a list element-by-element.
+* Think about how you could use conditionals and comparisons to evaluate, sort, or clean data from a list.
 
 **Share out either of the following:**
 * One interesting thing you learned
