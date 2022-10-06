@@ -10,6 +10,9 @@ Instructors:
 * Algorithms + Data Structures = Programs
 
 ## Opening a file and importing data (10 minutes)
+* `with open` opens the file in a safe way, meaning if there is an error or problem, the file will be closed automatically
+    * There are other ways to open files where you have to explicitly close the file and in general these methods should be avoided.
+* `encoding="utf-8"` - be aware of text encodings, this file will not import properly without this parameter.
 
 ## for() loops (10 minutes)
 * There are many ways to use a for() loop, one of the most powerful ways is to interate through a list.
