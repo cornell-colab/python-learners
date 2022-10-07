@@ -8,7 +8,7 @@ Instructors:
 
 * Any questions from last time?
 * Algorithms + Data Structures = Programs
-      * Now that we know about algorithms and data structures, it's time to write programs!
+     * Now that we know about algorithms and data structures, it's time to write programs!
 
 ## Opening a file and importing data (5 minutes)
 * `with open` opens the file in a safe way, meaning if there is an error or problem, the file will be closed automatically
