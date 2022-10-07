@@ -8,6 +8,7 @@ Instructors:
 
 * Any questions from last time?
 * Algorithms + Data Structures = Programs
+      * Now that we know about algorithms and data structures, it's time to write programs!
 
 ## Opening a file and importing data (10 minutes)
 * `with open` opens the file in a safe way, meaning if there is an error or problem, the file will be closed automatically
@@ -26,11 +27,11 @@ for number in list:
 ```
 
 ## Evaluating data with comparisons, conditionals, and loops (15 minutes)
-
+* The [in keyword](https://docs.python.org/3.9/reference/expressions.html#membership-test-operations) tests for membership.
+     * `x in string` tests if _x_ is exactly equal to _string_ **or any substring** of _string_ (partial matching)
+     * `x in list` tests if _x_ is exactly equal to any element of _list_, **no partial matching of individual elements**
 
 ## Conclusion, discuss questions, and lessons learned (10 minutes)
-
-* Think about how you could use conditionals and comparisons to evaluate, sort, or clean data from a list.
 
 **Share out either of the following:**
 * One interesting thing you learned
