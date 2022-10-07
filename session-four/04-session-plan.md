@@ -10,12 +10,12 @@ Instructors:
 * Algorithms + Data Structures = Programs
       * Now that we know about algorithms and data structures, it's time to write programs!
 
-## Opening a file and importing data (10 minutes)
+## Opening a file and importing data (5 minutes)
 * `with open` opens the file in a safe way, meaning if there is an error or problem, the file will be closed automatically
     * There are other ways to open files where you have to explicitly close the file and in general these methods should be avoided.
 * `encoding="utf-8"` - be aware of text encodings, this file will not import properly without this parameter.
 
-## for() loops (10 minutes)
+## for() loops (15 minutes)
 * There are many ways to use a for() loop, one of the most powerful ways is to interate through a list.
 * In part of the set-up, you decide what to name the variable that will hold each list element for each single run of the loop.
 * In this example, "number" is not a variable used elsewhere, we are defining it right here. "number" will take on the values 1, 2, 3, 4 in sequence for each run of the loop. The result of this output is the sequence 2, 3, 4, 5.
