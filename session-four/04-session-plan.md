@@ -27,9 +27,60 @@ for number in list:
 ```
 
 ## Evaluating data with comparisons, conditionals, and loops (15 minutes)
+
 * The [in keyword](https://docs.python.org/3.9/reference/expressions.html#membership-test-operations) tests for membership.
      * `x in string` tests if _x_ is exactly equal to _string_ **or any substring** of _string_ (partial matching)
      * `x in list` tests if _x_ is exactly equal to any element of _list_, **no partial matching of individual elements**
+
+
+## Comparisons
+The result of these operations is either True or False, which are special boolean data types
+
+* ==
+  * 3 == 3 returns True
+  * 3 == "3" returns False (checking equality between a numeric value and a string is False in Python, other languages may differ)
+  * 3 == 3.0 returns True (checking equality between an integer and a float is fine in Python, other languages may differ)
+* \>
+  * Not limited to numeric values: "a" < "b" returns True, strings are compared lexicographically (lexicographical ordering is a mathematical generalization of alphabetical ordering)
+  * However, there is likely a better way to accomplish the task of alphabetization, depending on the specific details of the operation
+* <
+* \>=
+* <=
+* !=
+
+Experiment! Try different comparisons on your own.
+
+### Logical operators to combine comparisons
+
+The result of these operations is either True or False.
+
+* and
+  * &&
+  * True and True evaluates to True
+  * True and False evaluates to False
+  * False and True evaluates to False
+  * False and False evaluates to False
+
+* or - also returns True if "and" is true.
+  * ||
+  * True or True evaluates to True
+  * True or False evaluates to True
+  * False or True evaluates to True
+  * False or False evaluates to False
+
+* not
+
+* (xor) - exclusive "or", returns False if "and" is True
+  * must use ^ symbol 
+
+## Conditionals
+* if
+```
+if(True):
+     run this code
+```
+* else
+* elif
 
 ## Conclusion, discuss questions, and lessons learned (10 minutes)
 
