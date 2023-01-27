@@ -1,4 +1,4 @@
-# Session 4
+# Session 2
 
 Instructors:
 * Iliana Burgos, Emerging Data Practices Librarian (itb23)
