@@ -1,4 +1,4 @@
-# Python learners group (Fall 2022)
+# Python learners group (Spring 2023)
 Instructors: 
 * Iliana Burgos, Emerging Data Practices Librarian (itb23)
 * Devin Sanera, Instructional Technology Coordinator (ds895)
@@ -12,14 +12,11 @@ https://tinyurl.com/python-learners
 *updated!*: Olin Library Room 106G 
 
 **Fridays, 3-4pm:**
-* September 16, session one: anatomy of a Python script and common errors
-* September 23, session two: variables, data types, and string methods
-* September 30, session three: comparisons and conditionals
-* October 7, session four: lists and loops
+* Session zero: Installing Python and computer questions 
+* Session one: 
+* Session two: 
 
-Our current plan is to meet once a week for four weeks. After that, depending on interest, we can continue with more advanced programming topics. 
-
-**We don't expect you to do any work outside of session time unless you'd like to.** We can help provide resources and external lessons that speak to your personal goals for learning Python.
+Our current plan is to meet once a week for three weeks. After that, depending on interest, we can continue with more advanced programming topics. 
 
 Each session will have this (approximate!) structure:
 * **10 minutes:** Settle in, check in with one another. Devin and Iliana introduce the lesson topic for the day.
