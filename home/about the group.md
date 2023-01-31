@@ -9,12 +9,11 @@ https://tinyurl.com/python-learners
 
 ## Session time and location
 
-*updated!*: Olin Library Room 701
+Olin Library Room 701
 
-**Fridays, 3-4pm:**
-* Session zero: Installing Python and computer questions 
-* Session one: Variables, data types and loops
-* Session two: Lists, loops and applying your Python knowledge
+* Monday, February 6, 2:30-3:30 - Session zero: Installing Python and computer questions 
+* Monday, February 13, 2:30-3:30 - Session one: Variables, data types and loops
+* Monday, February 20, 2:30-3:30 - Session two: Lists, loops and applying your Python knowledge
 
 Our current plan is to meet once a week for three weeks. After that, depending on interest, we can continue with more advanced programming topics. 
 
