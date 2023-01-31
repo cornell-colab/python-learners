@@ -26,6 +26,7 @@ Instructors:
   * Strings (Text)
   * Integers (Whole Numbers)
   * Floats (Decimal Numbers)
+    * `print(1.03-0.42)`
   * Booleans (True/False)
 
 * Checking types
@@ -35,15 +36,14 @@ Instructors:
 
 * Multiple element data types (data structures):
   * Lists (an array of elements)
-  * Dictionaries (a key-value structure)
-  * (Less common, we won't cover these today)
+  * Other data types, we won't cover these today
+    * Dictionaries (a unordered key-value structure)
     * Set (unordered, doesn't allow duplicates)
     * Tuple (ordered, not able to modify tuple contents)
 
-* Addressing elements or ranges within lists or elements of dictionaries
+* Addressing elements or ranges of elements within lists
   * list[0]
   * list[2:7]
-  * dict["key"]
 
 * Structures can be nested. For example, a list can contain elements that are themselves other lists.
   * list[0][2]
@@ -56,10 +56,11 @@ Instructors:
     * list[position] = new_element
   * pop() - removes an item from the list at a specified postion
 
-* Modifying dictionaries
-  *  update() - adds specified key-value pairs
-     * dict["newkey"] = "newvalue" 
-  *  pop()	- removes the element with the specified key
+* Returning to single element types
+  * You can operate on strings in a very similar way to list elements
+    * Consider the filename `ScreenShot_22-03-16_11-12-21-000.jpg`
+    * We can "select" only the part of the filename containing the "hour" information like this: `hour = screenshot[20:22]`
+    * How might we select the entire date? Are there other considerations to think about regarding this overall task that we should consider?
 
 ## Discuss questions and lessons learned (10 minutes)
 
