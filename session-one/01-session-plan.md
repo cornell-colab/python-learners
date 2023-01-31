@@ -58,8 +58,8 @@ Instructors:
 
 * Returning to single element types
   * You can operate on strings in a very similar way to list elements
-    * Consider the filename `ScreenShot_22-03-16_11-12-21-000.jpg`
-    * We can "select" only the part of the filename containing the "hour" information like this: `hour = screenshot[20:22]`
+    * Consider the string "filename" defined by `filename = ScreenShot_22-03-16_11-12-21-000.jpg`
+    * We can "select" only the part of the string containing the "hour" information like this: `hour = filename[20:22]`
     * How might we select the entire date? Are there other considerations to think about regarding this overall task that we should consider?
 
 ## Discuss questions and lessons learned (10 minutes)
