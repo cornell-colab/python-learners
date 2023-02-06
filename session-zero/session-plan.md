@@ -6,7 +6,7 @@ Instructors:
 ## Welcome, settle in (5 minutes)
 
 Review [logistics for the Python learners group](https://github.com/cornell-colab/python-learners/blob/main/home/about%20the%20group.md):
- * Meeting Mondays, Feb. 6, 13, 20, 3-5pm
+ * Meeting Mondays, Feb. 6, 13, 20, 2:30-3:30pm
 
 ## Group introductions (10 minutes)
 
