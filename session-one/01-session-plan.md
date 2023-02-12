@@ -31,8 +31,15 @@ Instructors:
 
 * Checking types
   * type()
+
 * Converting between types
   * int(), str(), float()
+
+* Combining two items of the same type
+  * Numerical types can be combined without conversion
+    * `print(3+0.14)`
+  * Strings can be concatinated with `+` operator, if you want a space you need to add it somewhere
+    * `print("Olin" + "Library")`
 
 * Multiple element data types (data structures):
   * Lists (an array of elements)
