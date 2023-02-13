@@ -73,4 +73,4 @@ Instructors:
 
 **Share out either of the following:**
 * An interesting thing you learned
-* Any question you have
+* Any questions you have
