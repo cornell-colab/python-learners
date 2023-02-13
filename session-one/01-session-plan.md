@@ -3,17 +3,20 @@ Instructors:
 * Iliana Burgos, Emerging Data Practices Librarian (itb23)
 * Devin Sanera, Instructional Technology Coordinator (ds895)
 
-## Welcome, review of previous session, and questions (15 minutes)
+## Welcome, review of previous session, and questions (5 minutes)
 
 * Any questions from last time?
 * Differences between VisualStudio, PyCharm, JupyterLab, VSCode
   * Differences between an IDE vs text editor, how the computer is processing your code
-* Brief review of [Anatomy of a Python script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html) and [Common Python errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
 
 ## Variables and Data Types (35 minutes)
 
 * Algorithms + Data Structures = Programs
   * Today we will learn about the data side of this formula
+
+* If you have any questions about the structure of Python scripts or errors, refer to the following sections: 
+  * [Anatomy of a Python script](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/03-Anatomy-Python-Script.html) and 
+  * [Common Python errors](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/13-Common-Python-Errors.html)
 
 ### [Python variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/04-Variables.html)
 * A variable is a "container" for data. In Python, we create a new variable by assigning a value to it (other languages differ). If you've used a spreadsheet to run calculations, each cell can be a variable.
