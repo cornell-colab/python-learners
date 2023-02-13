@@ -72,6 +72,5 @@ Instructors:
 ## Discuss questions and lessons learned (10 minutes)
 
 **Share out either of the following:**
-* One interesting thing you learned
-* One question you have
-* Any concerns or unclear topics?
+* An interesting thing you learned
+* Any question you have
