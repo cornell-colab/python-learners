@@ -86,22 +86,19 @@ if(True):
 
 ### Opportunities for further learning:
 
-#### Tutorials for digital humanists
+#### Resources for digital humanists
 
+* Automate the Boring Stuff with Python, 2nd Edition. Practical Programming for Total Beginners (Sweigart, 2019)
 * [Introduction to Cultural Analytics & Python, Version 1 (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html):
     * ["Data Analysis with Pandas"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/00-Data-Analysis.html)
     * [Web-based "Data Collection"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/00-Data-Collection.html)
     * ["Text Analysis" methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/00-Text-Analysis.html)
-* [Python documentation](https://docs.python.org/3/)
-* [W2Schools Online Web Tutorials](https://docs.python.org/3/)
 * [Programming Historian](https://programminghistorian.org)
+* [Python documentation](https://docs.python.org/3/)
+* [W2Schools Online Web Tutorials](https://www.w3schools.com/)
 
 #### For library staff:
 
-* [Python for Librarians (Library Carpentry)](https://librarycarpentry.org/library-python/)
+* Automate the Boring Stuff with Python, 2nd Edition. Practical Programming for Total Beginners (Sweigart, 2019)
 * [Python lessons for librarians (Janowiecki, 2021)](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/home)
-
-**Share out either of the following:**
-* One interesting thing you learned
-* One question you have
-* Any concerns or unclear topics?
+* [Python for Librarians (Library Carpentry)](https://librarycarpentry.org/library-python/)
