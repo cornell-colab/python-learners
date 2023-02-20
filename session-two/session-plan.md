@@ -84,6 +84,21 @@ if(True):
 
 ## Conclusion, discuss questions, and lessons learned (10 minutes)
 
+### Opportunities for further learning:
+
+#### Applying Python in digital humanities research
+
+##### Resources for further learning
+
+* [Python documentation](https://docs.python.org/3/)
+* [W2Schools Online Web Tutorials](https://docs.python.org/3/)
+* [Programming Historian](https://programminghistorian.org)
+
+#### For the library staff in the room
+
+* [Python for Librarians (Library Carpentry)](https://librarycarpentry.org/library-python/)
+* [Python lessons for librarians (Janowiecki, 2021)](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/home)
+
 **Share out either of the following:**
 * One interesting thing you learned
 * One question you have
