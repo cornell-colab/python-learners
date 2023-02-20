@@ -86,15 +86,17 @@ if(True):
 
 ### Opportunities for further learning:
 
-#### Applying Python in digital humanities research
+#### Tutorials for digital humanists
 
-##### Resources for further learning
-
+* [Introduction to Cultural Analytics & Python, Version 1 (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html):
+ * [Analyze tabular data with Pandas](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/00-Data-Analysis.html)
+ * [Collecting data from the web](https://melaniewalsh.github.io/Intro-Cultural-Analytics/04-Data-Collection/00-Data-Collection.html)
+ * [Text analysis methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/05-Text-Analysis/00-Text-Analysis.html)
 * [Python documentation](https://docs.python.org/3/)
 * [W2Schools Online Web Tutorials](https://docs.python.org/3/)
 * [Programming Historian](https://programminghistorian.org)
 
-#### For the library staff in the room
+#### For library staff:
 
 * [Python for Librarians (Library Carpentry)](https://librarycarpentry.org/library-python/)
 * [Python lessons for librarians (Janowiecki, 2021)](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/home)
